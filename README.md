@@ -1,5 +1,6 @@
 <!--=== Banner de Introdução ===-->
-![Slogan](https://user-images.githubusercontent.com/119537238/218802021-469c2987-03b5-475e-9033-f56f78131b95.png)
+![Slogan](https://user-images.githubusercontent.com/119537238/219216762-9f94a12b-9674-464f-a7b2-b2ea1bc50494.png)
+
 
 <!--=== Conteúdo de Introdução ===-->
 # 👋 • Introdução
@@ -24,7 +25,7 @@
 
 # 📌 • Desempenho
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henry8K&count_private=true&border=true&theme=algolia)
+![Henry Stats](https://github-readme-stats.vercel.app/api?username=Henry8K&count_private=true&border=true&theme=algolia)
 
 ---
 
