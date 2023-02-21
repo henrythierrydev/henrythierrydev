@@ -15,7 +15,7 @@
 
 > Linguaguens: Tenho um conhecimento super avançado de **php**, já que foi a primeira que começei, também sei bastante de **Front-End** que inclui Html, Css e JavaScript, além disso sei bastante **Python** e tenho um conhecimento mediano sobre **Java** e **C++**, poucas vezes uso, mas quando uso é para grandes projetos.
 
-> Plataformas: Tenhot total conhecimento sobre todas ferramentas do **git** e **github**, trabalho com vscode e além disso uso principalmente frameworks para quase tudo que vou fazer, costumo mais fazer meus próprios frameworks do que usar já prontos, mas também sei mexer com qualquer um ja pronto, como por exemplo **bootstrap** e **bulma**.
+> Plataformas: Tenho total conhecimento sobre todas ferramentas do **git** e **github**, trabalho com vscode e além disso uso principalmente frameworks para quase tudo que vou fazer, costumo mais fazer meus próprios frameworks do que usar já prontos, mas também sei mexer com qualquer um ja pronto, como por exemplo **bootstrap** e **bulma**.
 
 > Idiomas: Falo Português de forma nativa e inglês avançado.
 
