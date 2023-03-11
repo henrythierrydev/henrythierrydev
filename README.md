@@ -1,5 +1,5 @@
 <!--=== Banner de Introdução ===-->
-![Slogan](https://user-images.githubusercontent.com/119537238/219216762-9f94a12b-9674-464f-a7b2-b2ea1bc50494.png)
+![Slogan](https://cdn.statusqueen.com/desktopwallpaper/thumbnail/underwater-movie-poster-187.jpg)
 
 
 <!--=== Conteúdo de Introdução ===-->
