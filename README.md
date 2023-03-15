@@ -1,35 +1,37 @@
 <!--=== Banner de Introdução ===-->
-![Slogan](https://cdn.statusqueen.com/desktopwallpaper/thumbnail/underwater-movie-poster-187.jpg)
-
+![Banner](https://user-images.githubusercontent.com/119537238/225458228-89a2fe63-d8e9-48d0-8f33-392ed1b7e1ff.png)
 
 <!--=== Conteúdo de Introdução ===-->
-# 👋 • Introdução
+## 👋 • Introdução
 
-> Olá! Seja bem vindo ao meu perfil. Me chamo Henry Thierry, mas conhecido como HenryDM, sou desenvolvedor Full Stack, designer, criador de frameworks e atual fundador da **Spacelaxy** uma organização de tecnologia de IA e criação de frameworks. Amo pizza, sou apaixonado por gatos e adoro codar :D. 
+> Hello! Me chamo Henry Thierry e sou desenvolvedor desde 2020, atualmente tenho 3 anos de experiência em várias linguaguens de programação e sou um desenvolvedor full stack, gosto de criar Frameworks, Inteligências artificiais e sites :D, Atualmente estou trabalhando com PHP, Java e JavaScript e espero aprender outras linguaguens em breve. Começei trabalhando com PHP mais porque eu queria criar meu servidor de minecraft então surgiu a necessidade de aprender a programar nessa linguaguem e foi a partir daí que começei. 
 
 ---
 
 <!--=== Conteúdo de Skills ===-->
 
-# 🚀 • Skills
+## 🚀 • Skills
 
-> Linguaguens: Tenho um conhecimento super avançado de **php**, já que foi a primeira que começei, também sei bastante de **Front-End** que inclui Html, Css e JavaScript, além disso sei bastante **Python** e tenho um conhecimento mediano sobre **Java** e **C++**, poucas vezes uso, mas quando uso é para grandes projetos.
+> Linguaguens: Basicamente sei várias linguaguens de programação no geral, começei com **PHP** então o meu conhecimento acerca é enorme e logo após segui para **Java** no qual uso mais atualmente, juntamente do **JavaScript**, além disso tenho conheçimento de **HTML/CSS**, **SQL** e entre outros que são necessários para um desenvolvedor full stack.
 
-> Plataformas: Tenho total conhecimento sobre todas ferramentas do **git** e **github**, trabalho com vscode e além disso uso principalmente frameworks para quase tudo que vou fazer, costumo mais fazer meus próprios frameworks do que usar já prontos, mas também sei mexer com qualquer um ja pronto, como por exemplo **bootstrap** e **bulma**.
+> Plataformas: Sou sincero quase sempre e falo o que acho. Não gosto de criar coisas com frameworks, mas eu sei toda sintaxe dos principais frameworks como React Native, Bootstrap, Bulma e entre outros, consigo facilmente desenvolvedor códigos com eles sem precisar de codificação externa. Além disso sei usar o git e github por completo.
 
-> Idiomas: Falo Português de forma nativa e inglês avançado.
+> Outros: Para acabar queria destacar alguns pontos a mais em que sei fazer e que ainda estou desenvolvendo com o tempo, primeiro ponto é o design, sei fazer bons designs e prototipos tanto para sites modernos, quanto para clássicos, sempre busco um tema customizado e diferente para cada site. Basicamente sei inglês e português e desenvolvo **SEO**(Search Engine Optimization) para que qualquer site possa rankear nas pesquisas. Bem agora você me conheçe :D.
 
 ---
 
 <!--==== Conteúdo de desempenho ===-->
 
-# 📌 • Desempenho
+## 📌 • Desempenho
 
-![Henry Stats](https://github-readme-stats.vercel.app/api?username=Henry8K&count_private=true&border=true&theme=algolia)
+![Henry Stats](https://github-readme-stats.vercel.app/api?username=Henry8K&count_private=true&border=true&theme=dracula)
 
 ---
 
+<!--=== Conteudo de redes sociais ===
+
+## 🌴 • Redes Sociais-->
 
 <!--=== Conteúdo Final ===-->
 
-> Feito com 💝 por HenryDM
+> Bem, é isso... Espero que tenha dado pra me conheçer nesse pouco que falei sobre mim e espero que talvez um dia você que tá lendo isso caso não me conheça ainda, possa conheçer, byeee.
