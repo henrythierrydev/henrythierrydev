@@ -16,7 +16,7 @@
 
 > Plataformas: Sou sincero quase sempre e falo o que acho. Não gosto de criar coisas com frameworks, mas eu sei toda sintaxe dos principais frameworks como React Native, Bootstrap, Bulma e entre outros, consigo facilmente desenvolvedor códigos com eles sem precisar de codificação externa. Além disso sei usar o git e github por completo.
 
-> Outros: Para acabar queria destacar alguns pontos a mais em que sei fazer e que ainda estou desenvolvendo com o tempo, primeiro ponto é o design, sei fazer bons designs e prototipos tanto para sites modernos, quanto para clássicos, sempre busco um tema customizado e diferente para cada site. Basicamente sei inglês e português e desenvolvo **SEO**(Search Engine Optimization) para que qualquer site possa rankear nas pesquisas. Bem agora você me conheçe :D.
+> Outros: Para acabar queria destacar alguns pontos a mais em que sei fazer e que ainda estou desenvolvendo com o tempo, primeiro ponto é o design, sei fazer bons designs e prototipos tanto para sites modernos, quanto para clássicos, sempre busco um tema customizado e diferente para cada site. Basicamente sei inglês e português e desenvolvo **SEO**(Search Engine Optimization) para que qualquer site possa rankear nas pesquisas. Odeio códigos desorganizados, caso tenha eu nem leio o código, por isso trabalho sempre com boas práticas e sempre deixando meu cógido Bem organizado e fácil de manter e entender. Bem agora você me conheçe :D.
 
 ---
 
