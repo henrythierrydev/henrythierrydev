@@ -24,7 +24,7 @@
 
 ## 📌 • Desempenho
 
-![Henry Stats](https://github-readme-stats.vercel.app/api?username=Henry8K&count_private=true&border=true&theme=dracula)
+![Henry Streak](https://streak-stats.demolab.com?user=Henry8K&theme=dracula)
 
 ---
 
