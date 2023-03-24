@@ -12,7 +12,7 @@
 
 ## 🚀 • Skills
 
-> Linguaguens: Basicamente sei várias linguaguens de programação no geral, começei com **PHP** então o meu conhecimento acerca é enorme e logo após segui para **Java** no qual uso mais atualmente, juntamente do **JavaScript**, além disso tenho conheçimento de **HTML/CSS**, **SQL** e entre outros que são necessários para um desenvolvedor full stack.
+> Linguaguens: Basicamente sei várias linguaguens de programação no geral, começei com **PHP** então o meu conhecimento acerca é enorme e logo após segui para **Java** no qual uso mais atualmente, juntamente do **JavaScript**, além disso tenho conheçimento de **HTML/CSS**, **SQL**, **EDA** e entre outros.
 
 > Plataformas: Sou sincero quase sempre e falo o que acho. Não gosto de criar coisas com frameworks, mas eu sei toda sintaxe dos principais frameworks como React Native, Bootstrap, Bulma e entre outros, consigo facilmente desenvolvedor códigos com eles sem precisar de codificação externa. Além disso sei usar o git e github por completo.
 
