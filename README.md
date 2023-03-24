@@ -30,7 +30,7 @@
 
 <!--=== Conteudo de redes sociais ===
 
-## 🌴 • Redes Sociais-->
+## 🌴 • Redes sociais-->
 
 <!--=== Conteúdo Final ===-->
 
