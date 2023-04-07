@@ -4,7 +4,7 @@
 <!--=== Conteúdo de Introdução ===-->
 ## 👋 • Introdução
 
-> Hello! Me chamo Henry Thierry e sou desenvolvedor desde 2020, atualmente tenho 3 anos de experiência em várias linguaguens de programação e sou um desenvolvedor full stack, gosto de criar Frameworks, Inteligências artificiais e sites :D, Atualmente estou trabalhando com PHP, Java e JavaScript e espero aprender outras linguaguens em breve. Começei trabalhando com PHP mais porque eu queria criar meu servidor de minecraft então surgiu a necessidade de aprender a programar nessa linguaguem e foi a partir daí que começei. 
+> Hello! Me chamo Henry Thierry e sou desenvolvedor desde 2020, atualmente tenho 3 anos de experiência em várias linguaguens de programação e sou um desenvolvedor full stack, gosto de criar Frameworks, Inteligências artificiais e sites :D, Atualmente estou trabalhando com Python, Java e JavaScript e espero aprender outras linguaguens em breve. Começei trabalhando com PHP mais porque eu queria criar meu servidor de minecraft então surgiu a necessidade de aprender a programar nessa linguaguem e foi a partir daí que começei. 
 
 ---
 
