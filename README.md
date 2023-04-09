@@ -28,10 +28,6 @@
 
 ---
 
-<!--=== Conteudo de redes sociais ===
-
-## 🌴 • Redes sociais-->
-
 <!--=== Conteúdo Final ===-->
 
 > Bem, é isso... Espero que tenha dado pra me conheçer nesse pouco que falei sobre mim e espero que talvez um dia você que tá lendo isso caso não me conheça ainda, possa conheçer, byeee.
