@@ -1,33 +1,33 @@
-<!--=== Banner de Introdução ===-->
+<!--=== Introduction Banner ===-->
 ![Banner](https://user-images.githubusercontent.com/119537238/225458228-89a2fe63-d8e9-48d0-8f33-392ed1b7e1ff.png)
 
-<!--=== Conteúdo de Introdução ===-->
-## 👋 • Introdução
+<!--=== Introduction Content ===-->
+## 👋 - Introduction
 
-> Hello! Me chamo Henry Thierry e sou desenvolvedor desde 2020, atualmente tenho 3 anos de experiência em várias linguaguens de programação e sou um desenvolvedor full stack, gosto de criar Frameworks, Inteligências artificiais e sites :D, Atualmente estou trabalhando com Python, Java e JavaScript e espero aprender outras linguaguens em breve. Começei trabalhando com PHP mais porque eu queria criar meu servidor de minecraft então surgiu a necessidade de aprender a programar nessa linguaguem e foi a partir daí que começei. 
-
----
-
-<!--=== Conteúdo de Skills ===-->
-
-## 🚀 • Skills
-
-> Linguaguens: Basicamente sei várias linguaguens de programação no geral, começei com **PHP** então o meu conhecimento acerca é enorme e logo após segui para **Java** no qual uso mais atualmente, juntamente do **JavaScript**, além disso tenho conheçimento de **HTML/CSS**, **SQL**, **EDA** e entre outros.
-
-> Plataformas: Sou sincero quase sempre e falo o que acho. Não gosto de criar coisas com frameworks, mas eu sei toda sintaxe dos principais frameworks como React Native, Bootstrap, Bulma e entre outros, consigo facilmente desenvolvedor códigos com eles sem precisar de codificação externa. Além disso sei usar o git e github por completo.
-
-> Outros: Para acabar queria destacar alguns pontos a mais em que sei fazer e que ainda estou desenvolvendo com o tempo, primeiro ponto é o design, sei fazer bons designs e prototipos tanto para sites modernos, quanto para clássicos, sempre busco um tema customizado e diferente para cada site. Basicamente sei inglês e português e desenvolvo **SEO**.
+> Hello, my name is Henry Thierry and I'm a developer since 2020, currently I have 3 years of experience in several programming languages and I'm a full stack developer, I like to create Frameworks, Artificial Intelligences and websites :D, Currently I'm working with Python, Java and JavaScript and I hope to learn other languages soon. I started working with PHP more because I wanted to create my own minecraft server so I needed to learn how to program in this language and that's where I started. 
 
 ---
 
-<!--==== Conteúdo de desempenho ===-->
+<!--=== Skills Content ===-->
 
-## 📌 • Desempenho
+## 🚀 - Skills
+
+> Languages: Basically I know several programming languages in general, I started with **PHP** so my knowledge about it is huge and soon after I moved on to **Java** which I use more nowadays, along with **JavaScript**, besides that I have knowledge of **HTML/CSS**, **SQL**, **EDA** and among others.
+
+> Platforms: I'm honest most of the time and tell what I think. I don't like to create things with frameworks, but I know all the syntax of the main frameworks like React Native, Bootstrap, Bulma and others, I can easily develop code with them without the need for external coding. Also I know how to use git and github completely.
+
+> Other: To finish I would like to highlight a few more points that I know how to do and that I am still developing over time, the first point is design, I know how to do good designs and prototypes for both modern and classic sites, I always look for a customized and different theme for each site. Basically I know English and Portuguese and I develop **SEO**.
+
+---
+
+<!--==== Performance content ===-->
+
+## 📌 - Performance
 
 ![Henry Streak](https://streak-stats.demolab.com?user=Henry8K&theme=dracula)
 
 ---
 
-<!--=== Conteúdo Final ===-->
+<!--== Final Content ===-->
 
-> Bem, é isso... Espero que tenha dado pra me conheçer nesse pouco que falei sobre mim e espero que talvez um dia você que tá lendo isso caso não me conheça ainda, possa conheçer, byeee.
+> Well, that's it... I hope you got to know me in this little I told you about myself and I hope that maybe one day you, who are reading this if you don't know me yet, will be able to know me, byeee.
