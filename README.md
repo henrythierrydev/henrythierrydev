@@ -26,3 +26,14 @@
 
 --- 
 
+<!---=== Streaks Banner ===-->
+
+![sBanner](https://user-images.githubusercontent.com/119537238/233213363-17bc7177-8692-470a-8b62-a7ed6b97aa33.png)
+
+# 🏆 • Performance
+
+> This is one of my profile stats, I preferred to leave only this one since it's the only one I value more, I like this system a lot and I try never to lose the streaks that took me so long to get :D, so if you have ideas of projects that would be useful for the whole community and not only for you create an issue in my profile README so I can possibly implement or send me an email!
+
+![Henry Stats](https://streak-stats.demolab.com?user=Henry8K&theme=dracula)
+
+---
