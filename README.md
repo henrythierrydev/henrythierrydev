@@ -1,3 +1,6 @@
+> [Featured] - A big project launches tomorrow
+
+
 <!--== Introduction Banner ==-->
 
 ![gBanner](https://user-images.githubusercontent.com/119537238/225458228-89a2fe63-d8e9-48d0-8f33-392ed1b7e1ff.png)
@@ -22,7 +25,7 @@
 
 > As a big fan of Minecraft I focus on big projects related to this area and that in general help the community, it may not seem like it, but I have many related projects that are private because I only publish them when I already have a beta version pre-defined to only do fixes and maintenance shortly after.
 
-> I am currently working with a pendency of 8 big projects related to plugins, bots and much more in the Minecraft area and some of them are planned to be released soon... I hope to continue helping the whole community with their needs for a long time...
+> I am currently working with a pendency of 7 big projects related to plugins, bots and much more in the Minecraft area and some of them are planned to be released soon... I hope to continue helping the whole community with their needs for a long time...
 
 --- 
 
