@@ -1,6 +1,6 @@
 > [Featured] - A big project launches 05/10/22
 
-> project postponed to 8/15/23 due to incomplete docs.
+> project postponed to 5/15/23 due to incomplete docs.
 
 
 <!--== Introduction Banner ==-->
