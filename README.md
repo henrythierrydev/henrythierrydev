@@ -1,6 +1,4 @@
-> [Featured] - A big project launches 05/10/22
-
-> project postponed to 5/15/23 due to incomplete docs.
+> [Featured] - A big project launches 06/16/23
 
 
 <!--== Introduction Banner ==-->
