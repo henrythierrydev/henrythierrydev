@@ -1,8 +1,11 @@
 ![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 
-## 👋 Hello!
+## Introduction
+> Hello! My name is Henry. I started in the programming field at the age of 14 with Minecraft and PHP, which I'm still passionate about today—not so much for PHP, but definitely for Minecraft, haha. Anyway, over the years, I've gained a lot of experience and skills in both front-end and back-end development, surprisingly without having a clear preference for either—I enjoy both!
 
-> Hi, my name is Henry, I'm a full stack developer and in my free time I like to do projects for the Minecraft community, on this Github profile I'm going to post some cool related projects, and also things that are really well done, good and free or at least with few errors!
+> Currently, I'm working at my company called Spacelaxy as a Full Stack developer, and occasionally, I take on freelance projects. I haven't contributed much to my GitHub with clean code and good technologies because I'm also attending college, and I prefer not to spend too much time on the college assignments. Soon, I'll be removing all the repositories related to college from this account and start sharing things that are useful to the community!
+
+> If you want to follow Spacelaxy, we have LinkedIn, Discord, and more. Just visit the [github page](https://github.com/spacelaxy), which has all the links that will direct you there! To wrap up, I've listed some of the technologies I currently master. It's not an exhaustive list because I couldn't find all the badges!
 
 ---
 
@@ -50,3 +53,7 @@
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 
 ---
+
+## Why?
+
+> Many people ask me why I don't have a portfolio or anything like that, and I always have to explain. So, here on my GitHub, you'll find some answers: Simply put, I don't want to work for companies right now. I'm more focused on building my own company and my overall studies. Who knows, maybe in the future? But for now, I'm content. I still want to delve deeper into other technologies and explore more about the gaming industry!
