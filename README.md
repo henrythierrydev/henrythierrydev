@@ -1,6 +1,6 @@
 ![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 
-## Introduction
+## ⭐ - Introduction
 > Hello! My name is Henry. I started in the programming field at the age of 14 with Minecraft and PHP, which I'm still passionate about today—not so much for PHP, but definitely for Minecraft, haha. Anyway, over the years, I've gained a lot of experience and skills in both front-end and back-end development, surprisingly without having a clear preference for either—I enjoy both!
 
 > Currently, I'm working at my company called Spacelaxy as a Full Stack developer, and occasionally, I take on freelance projects. I haven't contributed much to my GitHub with clean code and good technologies because I'm also attending college, and I prefer not to spend too much time on the college assignments. Soon, I'll be removing all the repositories related to college from this account and start sharing things that are useful to the community!
@@ -9,7 +9,7 @@
 
 ---
 
-## General Tecnologies
+## 🌎 - Tecnologies
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,9 +19,6 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-## Front End Technologies
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -33,9 +30,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
-
-## Back End Tecnologies
-
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![expressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -44,16 +38,22 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
-
-
-## Mobile Tecnologies
-
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 
 ---
 
-## Why?
+## 🤔 - Why?
 
 > Many people ask me why I don't have a portfolio or anything like that, and I always have to explain. So, here on my GitHub, you'll find some answers: Simply put, I don't want to work for companies right now. I'm more focused on building my own company and my overall studies. Who knows, maybe in the future? But for now, I'm content. I still want to delve deeper into other technologies and explore more about the gaming industry!
+
+---
+
+| Project | Description | Status | Percentage |
+| --- | --- | --- | --- |
+| Spacelaxy Platform | Complete platform for developers | In progress | 52% |
+| MinForum | Customizable user forum | In progress | 11% |
+| Disnode | Powerful framework for Discord.js | In progress | 87% |
+
+---
