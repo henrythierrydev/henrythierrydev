@@ -52,7 +52,7 @@
 
 | Project | Description | Status | Percentage |
 | --- | --- | --- | --- |
-| Spacelaxy Platform | Complete platform for developers | In progress | 55% |
+| Spacelaxy Platform | Complete platform for developers | In progress | 57% |
 | MineForum | Customizable user forum | In progress | 20% |
 | Disnode | Powerful framework for Discord.js | In progress | 87% |
 
