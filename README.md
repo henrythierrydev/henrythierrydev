@@ -54,7 +54,7 @@
 | --- | --- | --- | --- |
 | Spacelaxy Platform | Complete platform for developers | In progress | 57% |
 | MineForum | Customizable user forum | In progress | 20% |
-| Disnode | Powerful framework for Discord.js | In progress | 89% |
+| Disnode | Powerful framework for Discord.js | In progress | 92% |
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Henry8K&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
