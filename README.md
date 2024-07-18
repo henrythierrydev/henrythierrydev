@@ -42,21 +42,7 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 
----
-
-## 🤔 - Why?
-
-> Many people ask me why I don't have a portfolio or anything like that, and I always have to explain. So, here on my GitHub, you'll find some answers: Simply put, I don't want to work for companies right now. I'm more focused on building my own company and my overall studies. Who knows, maybe in the future? But for now, I'm content. I still want to delve deeper into other technologies and explore more about the gaming industry!
 
 ---
-
-| Project | Description | Status | Percentage |
-| --- | --- | --- | --- |
-| Spacelaxy Platform | Complete platform for developers | In progress | 57% |
-| MineForum | Customizable user forum | In progress | 20% |
-| Disnode | Powerful framework for Discord.js | In progress | 92% |
-
-
-![](https://github-readme-stats.vercel.app/api?username=Henry8K&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://camo.githubusercontent.com/6eb5b9d9812fc7746befadf01f6f7bed922555c353f968a51c709ba8b486e8a8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d38302673656374696f6e3d666f6f746572)
