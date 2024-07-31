@@ -1,11 +1,8 @@
 ![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 
 ## ⭐ - Introduction
-> Hello! My name is Henry. I started in the programming field at the age of 14 with Minecraft and PHP, which I'm still passionate about today—not so much for PHP, but definitely for Minecraft, haha. Anyway, over the years, I've gained a lot of experience and skills in both front-end and back-end development, surprisingly without having a clear preference for either—I enjoy both!
 
-> Currently, I'm working at my company called Spacelaxy as a Full Stack developer, and occasionally, I take on freelance projects. I haven't contributed much to my GitHub with clean code and good technologies because I'm also attending college, and I prefer not to spend too much time on the college assignments. Soon, I'll be removing all the repositories related to college from this account and start sharing things that are useful to the community!
-
-> If you want to follow Spacelaxy, we have LinkedIn, Discord, and more. Just visit the [github page](https://github.com/spacelaxy), which has all the links that will direct you there! To wrap up, I've listed some of the technologies I currently master. It's not an exhaustive list because I couldn't find all the badges!
+> Hey, my name is Henry. I'm a full stack developer who started 6 years ago creating plugins and mods for Minecraft using PHP. Currently, I'm more focused on making cool projects like frameworks and useful templates for the community. If you want to support me with a sponsorship, I would be really happy. Help me out, please! :D\
 
 ---
 
