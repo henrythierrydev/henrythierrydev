@@ -4,7 +4,6 @@
 
 > Hey, my name is Henry. I'm a full stack developer who started 6 years ago creating plugins and mods for Minecraft using PHP. Currently, I'm more focused on making cool projects like frameworks and useful templates for the community. If you want to support me with a sponsorship, I would be really happy. Help me out, please! :D\
 
----
 
 ## 📟 - Tecnologies
 
