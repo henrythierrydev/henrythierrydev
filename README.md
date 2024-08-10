@@ -38,4 +38,4 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 
-![](https://camo.githubusercontent.com/6eb5b9d9812fc7746befadf01f6f7bed922555c353f968a51c709ba8b486e8a8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d38302673656374696f6e3d666f6f746572)
+[![GitHub Streak](https://streak-stats.demolab.com?user=henrythierrydev&theme=windows-dark)](https://git.io/streak-stats)
