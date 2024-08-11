@@ -39,3 +39,4 @@
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=henrythierrydev&theme=windows-dark)](https://git.io/streak-stats)
+![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrythierrydev&show_icons=true&theme=transparent)
