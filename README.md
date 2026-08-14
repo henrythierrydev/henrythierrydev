@@ -1,42 +1,50 @@
-![Profile banner](https://i.imgur.com/VNP2tTx.gif)
-
-## Introduction
-
-> Hey, my name is Henry. I'm a full stack developer who started 6 years ago creating plugins and mods for Minecraft using PHP. Currently, I'm more focused on making cool projects like frameworks and useful templates for the community. If you want to support me with a sponsorship, I would be really happy. Help me out, please! :D
+<img width="1167" height="480" alt="photo-1573821464154-d1d1b63ad0b1 (1)" src="https://github.com/user-attachments/assets/d1787627-f60b-4928-ba9a-3a5a70e471e9" />
 
 
-## Tecnologies
+### Hey, I'm Henry 👋
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![expressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
+_I'm a Full-Stack Developer, Game Modder, Motion Designer, and Founder & CEO of Spacelaxy._
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=henrythierrydev&theme=windows-dark)](https://git.io/streak-stats)
-![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrythierrydev&show_icons=true&theme=transparent)
+_My journey into development actually started with games. I began as a game modder, experimenting with Minecraft, learning how existing systems worked, breaking things, rebuilding them, and eventually creating my own mods and tools. What started as curiosity around game development slowly pushed me deeper into programming and software engineering. Over time, I moved from modding into full-stack development, working with web applications, APIs, databases, desktop applications, bots, infrastructure, and open-source projects. Eventually, that journey led me to create Spacelaxy, where I currently work as its Founder & CEO._
+
+_Today, we're also expanding Spacelaxy Studios, our creative side focused on content production, video editing, motion design, and other audiovisual projects._
+
+--- 
+
+### Spraxium
+
+**[Spraxium](https://github.com/spraxium/spraxium)** is an open-source **TypeScript framework for building scalable Discord bots**, built on top of **discord.js** and developed by **Spacelaxy**. It brings concepts commonly found in backend frameworks, such as modules, dependency injection, decorators, lifecycle hooks, and reusable services, making larger Discord projects easier to organize and maintain.
+
+_The framework also includes optional packages for features like **HTTP APIs, scheduling, internationalization, logging, components, webhooks, CLI tooling, and sharding**, allowing developers to build more structured and production-ready Discord applications without adding unnecessary complexity._
+
+|                |                                                                      |
+| -------------- | -------------------------------------------------------------------- |
+| 🌐 **Website** | [spraxium.com](https://spraxium.com)                                 |
+| 💻 **GitHub**  | [github.com/spraxium/spraxium](https://github.com/spraxium/spraxium) |
+
+--- 
+
+### Spacelaxy
+
+I'm the Founder & CEO of Spacelaxy.
+
+_What started around software and development has gradually grown into something broader, combining technology, open source, digital products, content, and creative production. We're currently expanding Spacelaxy Studios, bringing more focus to audiovisual production, professional editing, motion design, and digital media. There are still plenty of things being built behind the scenes, both creatively and technically._
+
+--- 
+
+### A little about me
+
+- 🤘 Huge Heavy Metal fan, especially Metallica and Iron Maiden
+- 🐈 I absolutely love cats
+- ☕ Professionally powered by caffeine
+- 🎮 I love Minecraft, RPGs, and sandbox games
+- 🧱 I also play a suspicious amount of Roblox
+- 🎬 Currently focused heavily on video editing and motion design
+- 💻 Started as a game modder before becoming a full-stack developer
+- 🪐 Founder & CEO of Spacelaxy
+- 🎥 Currently expanding Spacelaxy Studios
+- 🧪 Still interested in open-source projects and experimenting with new technology
+
+---
+
+_Development may no longer be the only thing I do, but it'll probably always be part of what I build. Whether that's software, open-source projects, videos, motion graphics, or whatever comes next. See you around! 🤘_
